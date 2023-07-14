@@ -1,0 +1,12 @@
+{
+    "name": "guess-number",
+    "version": "1.0.0",
+    "description": "Guess the number fame",
+    "main": "script.js",
+    "scripts": {
+      "start": "node script.js"
+    },
+    "author": "rocketboyz",
+    "license": "MIT"
+  }
+  
